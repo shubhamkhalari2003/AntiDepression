@@ -1,0 +1,31 @@
+body{
+  background-color: #000;
+  color: #fff;
+}
+
+h1{
+  text-align: center;
+  color: #fff;
+font-family: 'Moo Lah Lah', cursive;
+font-size: 60px;
+}
+
+.down{
+  text-align: center;
+  margin-top: 1%;
+  height:200px;
+  width: :200px;
+}
+
+.button1{
+  text-align: center;
+  margin-top: 6%;
+
+}
+
+.x{
+  height: 100px;
+  width: 250px;
+  font-size: 50px;
+  
+}
